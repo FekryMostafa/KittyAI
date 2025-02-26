@@ -1,0 +1,10 @@
+#pygame cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+checkpoints/*
+!checkpoints/fiveEpisodes/
+.DS_Store
