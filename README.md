@@ -1,4 +1,4 @@
-# KittyAI: Reinforcement Learning for Kitty Kitten War
+# KittyAI: Reinforcement Learning for Kitty Kitten War, a custom PyGame game
 
 ## Project Overview
 KittyAI is an advanced reinforcement learning implementation for the game "Kitty Kitten War." In this project, I developed a sophisticated AI agent that learns to play as KarenCat through deep reinforcement learning techniques. The human player controls BakerCat, creating an interactive environment where you can both play against and train the AI.
